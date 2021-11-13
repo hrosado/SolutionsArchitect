@@ -1,2 +1,2 @@
-# SolutionsArchitect
-SolutionsArchitect
+# Solutions Architect
+Solutions Architect
