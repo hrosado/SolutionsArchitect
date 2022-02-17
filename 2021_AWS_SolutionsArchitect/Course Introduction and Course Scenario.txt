@@ -1,0 +1,112 @@
+Hi, and welcome to the AWS Certified Solutions Architect,
+Associate Certification Track.
+This certification track is not only
+going to help you prepare to pass
+the new updated certification exam,
+but it's also going to help you prepare
+to be a solutions architect in the real world.
+And you do not need any previous AWS knowledge,
+but some is definitely going to help.
+This AWS Certified Solutions Architect
+Associate Certification Track,
+and the supporting courses,
+were created in case you want to take that deeper dive
+in preparing for your certification.
+And each course in this track,
+is going to build on the next course.
+But these supporting courses
+are also designed to take independently.
+We're going to start this course with AWS fundamentals.
+So we're going to be covering
+how we can design Resilient Architectures.
+Fundamentals is always a great refresher
+for our senior engineers,
+but it's also a great introduction to AWS,
+for our newer students.
+And as we make our way through the certification track
+and the supporting courses,
+we are going to be increasing our skills and our knowledge
+because not only is this track and the supporting courses
+based on AWS theory and practical demonstrations,
+but they also include the real hands-on labs
+that's going to give you
+that real world hands-on experience.
+And throughout this track and supporting courses,
+we're going to be building on a scenario.
+So let's quickly cover that scenario.
+And that scenario is that our organization, Scuba Syndrome,
+has decided to start moving to the cloud
+for all the benefits of cloud computing offers.
+And Scuba Syndrome really likes
+that AWS features a pay-as-you-go model,
+as they are tired of the wasted expense
+of our over-provisioned resources
+and we're interested in a more resilient
+and scalable architectural design.
+So Scuba Syndrome is a full-service scuba dive shop
+that teaches in-class and online dive certification courses,
+like open water, advanced, rescue diver, dive master,
+and also specialty courses too, like rec diving,
+photography, Nitrox, et cetera.
+They also teach elementary children to snorkel
+and they take regular charters off the coast
+and regular trips to Florida and also the Caribbean.
+Scuba Syndrome also runs a WordPress blog
+with articles, covering classes, certifications, equipment,
+and also lots of pictures and highlights of their trips.
+As a solutions architect, we've been tasked to build out
+a new AWS environment for Scuba Syndrome.
+And we have a couple of detailed requirements
+that we're going to work through
+and build throughout this course.
+The first requirement is to create 2 AWS accounts
+to add into an AWS organization.
+And we're going to be using the principle of least privilege
+for all needed permissions.
+Then we're going to need to add
+an additional AWS security account.
+So for our scenario, we're going to end up
+with 3 different AWS accounts,
+a development account, a production account,
+and also security account.
+Our third requirement is to build a multi-tiered VPC
+with a scalable, resilient design,
+and that's going to include our EC2 instances,
+database instances, et cetera.
+Our fourth requirement is to create a VPC peering connection
+between 2 of our AWS accounts.
+Our fifth requirement is to create a WordPress blog
+for articles, our certification classes,
+and also to add highlights of our trips,
+and new equipment, et cetera.
+Our sixth requirement is to review
+possible connectivity options
+between our new AWS organization
+and our Scuba Syndromes on-premise data center.
+Our seventh requirement is also a review requirement.
+So we're going to review different storage options
+for our new AWS environment,
+along with data migration options
+that we could use to potentially move
+from our Scuba Syndromes on-premise data center
+into our new AWS environment.
+The eighth requirement is going to be
+to add detailed logging and monitoring for our environment,
+so that costs and usage can be tracked.
+And our ninth requirement is going to be to add security.
+And this is going to be based on
+the principle of least privilege
+for AWS accounts and also the organization.
+And our last requirement is to use cost-effective options
+to make sure that AWS environment
+being designed and built is done with cost optimization.
+So we're going to get started off with some AWS fundamentals
+to get a better understanding of AWS' account structure,
+along with the AWS best practices for design.
+So let's go ahead and get started.
+And in our next video,
+we're going to look at the updated exam blueprint
+so that we can start getting prepared
+for the new AWS Certified Solutions Architect exam,
+specifically the SAACO2.
+I'll see you in the next video.
